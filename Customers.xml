@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<customer id="c10089">
+		<name>
+			<title>Mr</title>
+			<first_name>John</first_name>
+			<surname>Smith</surname>
+		</name>
+		<date_of_birth>1970-06-25</date_of_birth>
+		<job_title>Clock Cleaner</job_title>
+		<address>
+			<building>Big Ben</building>
+			<street/>
+			<city>London</city>
+			<postcode>SW1A 0AA</postcode>
+		</address>
+		<contact>
+			<phone>07070 123456</phone>
+			<email>john.Smith@example.com</email>
+		</contact>
+</customer>

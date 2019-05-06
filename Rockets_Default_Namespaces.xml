@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<products>
+<!-- Now that we supply the fireworks industry, as well as the space industry, we have to use namespaces in our XML documents to prevent mix-ups! -->
+
+	<rocket product_id="12" xmlns="github.com/author-d-armstrong/xpath/space" product_size="50 TON">
+		<material>titanium</material>
+		<material>carbon-fibre</material>
+		<material>space paint</material>
+	</rocket>
+	
+	<rocket product_id="34" xmlns="github.com/author-d-armstrong/xpath/fireworks" product_size="small">
+		<material>rocket-casing</material>
+		<material>fuses</material>
+		<material>gunpowder</material>
+		<material>magnesium</material>
+		<colour_sparks>white</colour_sparks>
+	</rocket>
+	
+	<rocket product_id="56" xmlns="github.com/author-d-armstrong/xpath/fireworks" product_size="medium">
+		<material>rocket-casing</material>
+		<material>fuses</material>
+		<material>gunpowder</material>
+		<material>copper</material>
+		<colour_sparks>green</colour_sparks>
+	</rocket>
+
+</products>

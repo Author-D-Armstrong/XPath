@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<index>
+	<book id="eb1" lang="English">
+		<title>Learn XPath Fast</title>
+		<author>D Armstrong</author>
+		<price>2.99</price>
+		<description>A step-by-step course in using XPath to query XML, with practice exercises.</description>
+		<metadata>
+			<keyword>XPath</keyword>
+			<keyword>XML</keyword>
+			<keyword>Exercises</keyword>
+		</metadata>
+		<where_found>Amazon</where_found>
+		<format>Ebook</format>
+	</book>
+	<video id="vd1" lang="English">
+		<title>Installing Selenium in Visual Studio</title>
+		<presenter>D Armstrong</presenter>
+		<description>This shows how to install Selenium to a project in Visual Studio.</description>
+		<metadata>
+			<keyword>Selenium</keyword>
+			<keyword>Web Browser Automation</keyword>
+			<keyword>Testing</keyword>
+		</metadata>
+		<where_found>YouTube</where_found>
+	</video>
+	<audiobook lang="English">
+		<title>How I learned XPath in a week, and how you can too!</title>
+		<author>D Armstrong</author>
+		<narrator>D Armstrong</narrator>
+		<where_found>Amazon</where_found>
+		<purpose>To help you learn XPath</purpose>
+		<purpose>To help me learn how to create audiobooks</purpose>
+		<purpose>Multi-channel marketing</purpose>
+		<!-- This audiobook does not actually exist. -->
+	</audiobook>
+	<book id="eb2" lang="English">
+		<title>Learn Command Line and Batch Script Fast, Vol. I</title>
+		<author>D Armstrong</author>
+		<series>Learn Command Line and Batch Script Fast</series>
+		<price>3.99</price>
+		<description>A step-by-step course in using cmd line and batch script to automate tasks in Microsoft Windows.</description>
+		<metadata>
+			<keyword>Cmd Line</keyword>
+			<keyword>Batch Scripting</keyword>
+			<keyword>Exercises</keyword>
+		</metadata>
+		<where_found>Amazon</where_found>
+		<format>Ebook</format>
+		<!-- I've left out volumes 2 and 3 of this series, but they do exist. -->
+	</book>
+	<book id="pb1" lang="English">
+		<title>Learn Command Line and Batch Script Fast, the complete course</title>
+		<author>D Armstrong</author>
+		<price>19.99</price>
+		<description>The whole "Command Line and Batch Script" series combined, for those who prefer a physical copy.</description>
+		<metadata>
+			<keyword>Cmd Line</keyword>
+			<keyword>Batch Scripting</keyword>
+			<keyword>Exercises</keyword>
+		</metadata>
+		<where_found>Amazon</where_found>
+		<format>Paperback</format>
+		<year>2016</year>
+	</book>
+
+	<!--REPLACE THIS WITH XPATH 2.0 book ???-->
+
+	<book id="eb3" lang="English">
+		<title>Learn You A Haskell For Great Good</title>
+		<author>Miran Lipovača</author>
+		<price>0</price>
+		<description>A great intro to functional programming with Haskell, nice illustrations too.</description>
+		<where_found>learnyouahaskell.com</where_found>
+		<where_found>Amazon.com</where_found>
+		<!-- free on the book's website, not necessarily on Amazon -->
+		<format>webpage</format>
+		<format>ebook</format>
+		<format>paperback</format>
+	</book>
+	<webpage lang="English">
+		<url>www.w3.org/TR/1999/REC-xpath-19991116</url>
+		<description>The official specification of XPath 1.0.</description>
+	</webpage>
+	<website>
+		<url>www.hackerrank.com</url>
+		<description>A place to practice your programming skills online, and more.</description>
+		<metadata>
+			<keyword>Algorithms</keyword>
+			<keyword>Practice problems</keyword>
+		</metadata>
+		<format></format>
+	</website>
+	<?TestTarget TestContent?>
+</index>

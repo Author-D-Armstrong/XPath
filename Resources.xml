@@ -23,6 +23,7 @@
 			<keyword>Testing</keyword>
 		</metadata>
 		<where_found>YouTube</where_found>
+		<!-- If you intend to use Selenium, with any programming language, YouTube can help you get set up -->
 	</video>
 	<audiobook lang="English">
 		<title>How I learned XPath in a week, and how you can too!</title>
